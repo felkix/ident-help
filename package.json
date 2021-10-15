@@ -1,19 +1,19 @@
 {
-  "name": "tech-doc-hugo",
+  "name": "SKPident",
   "version": "0.0.1",
-  "description": "Hugo theme for technical documentation.",
+  "description": "HelpCenter",
   "main": "none.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/google/docsy-example.git"
+    "url": "git+https://github.com/felixgrossSKP/ident-help.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/google/docsy-example/issues"
+    "url": ""
   },
   "homepage": "https://github.com/google/docsy-example#readme",
   "devDependencies": {
