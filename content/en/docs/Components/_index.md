@@ -1,33 +1,44 @@
 ---
+categories: ["Information"]
+tags: ["Hardware", "Software"]
 title: "Components"
 linkTitle: "Components"
 weight: 1
 description: >
-  "What are the Components required for SKPident"
+  What are the Components required for SKPident
 ---
 
-For SKPident you need several Components to get ready to Work. 
+## Hardware
 
-Try answering these questions for your user in this page:
+![Image](<scanner.png>)
 
-## What is it?
+The SKPident Scanner has 4 antennas and the QR/Barcode reader. The
+antennas have a range of up to 8 meters.
 
-Introduce your project, including what it does or lets you do, why you would use it, and its primary goal (and how it achieves it). This should be similar to your README description, though you can go into a little more detail here if you want.
+It is connected to the smartphone via the Bluetooth interface. The Smartphone
+can be attached to the inductive loading area of the scanner with magnetic clips or
+screws. 
+The scanner sends the electromagnetic waves and receives the
+information stored in the tags. You can activate the Scanner by pressing the
+Trigger or the in-App Buttons.
 
-## Why do I want it?
 
-Help your user know if your project will help them. Useful information can include: 
+## Software
+![Image](<tag.png>)
 
-* **What is it good for?**: What types of problems does your project solve? What are the benefits of using it?
+SKPident tags are available in various styles, for example to incorporate them into
+tarpaulins or attach them to profiles and ropes. However, the technology is always
+the same.
 
-* **What is it not good for?**: For example, point out situations that might intuitively seem suited for your project, but aren't for some reason. Also mention known limitations, scaling issues, or anything else that might let your users know if the project is not for them.
+RFID is the abbreviation for "radio frequency identification". To uniquely identify
+objects that are equipped with a tag, electromagnetic waves are emitted by the
+antennas of the scanner.
 
-* **What is it *not yet* good for?**: Highlight any useful features that are coming soon.
+There are also antennas in the Tag. They pick up the signal and generate a small
+electric charge, through the waves. This charge allows them, to return the ID,
+stored on a chip, without an additional powersource. A Tag has over 100000
+reading cycles.
 
-## Where should I go next?
 
-Give your users next steps from the Overview. For example:
 
-* [Getting Started](/docs/getting-started/): Get started with $project
-* [Examples](/docs/examples/): Check out some example code!
 
