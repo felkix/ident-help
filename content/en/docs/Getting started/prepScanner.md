@@ -27,5 +27,5 @@ charging area. Make sure that the inductive charging function is
 optimally used.
 * Alternatively, you can mount the protective case by using the screws.
 
-Now everything be prepared for workung with SKPident. The next chapters are guidance. If you have any questions and suggestions, an error or inconsistencies, please inform us. [Mail To](mailto:ident@skp-gmbh.com)
+Now everything be prepared for workung with SKPident. The next chapters are guidance. If you have any questions and suggestions, an error or inconsistencies, please inform us. [Mail To](mailto:ident@skp-gmbh.com) <- diese Email sollte geändert werden.
 
